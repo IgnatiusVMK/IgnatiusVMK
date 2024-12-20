@@ -1,8 +1,9 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Laravel, Python & Data Science
-- 👯 I’m looking to collaborate on more Php-Laravel Projects and modules.
+- 🌱 I’m currently learning Laravel, Python & Data Science - Machine Learning
+- 👯 I’m looking to collaborate on more Machine Learning Projects.
 - 📫 How to reach me: ignatiusvmk@gmail.com
-- 😄 Pronouns: He/Him...
+<!-- - 😄 Pronouns: He/Him...
+-->
 
 <!--
 **IgnatiusVMK/IgnatiusVMK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
