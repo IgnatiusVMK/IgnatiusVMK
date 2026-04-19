@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Laravel, Python & Data Science - Machine Learning
+- 🌱 I’m currently learning Java | Springboot
 - 👯 I’m looking to collaborate on more Machine Learning Projects.
 - 📫 How to reach me: ignatiusvmk@gmail.com
 <!-- - 😄 Pronouns: He/Him...
