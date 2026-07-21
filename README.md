@@ -52,14 +52,19 @@ Backend developer with a strong interest in building scalable web applications a
 * Java design patterns and best practices
 
 ---
+# 📊 GitHub Stats: 
 
-## 📈 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=IgnatiusVMK&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=IgnatiusVMK&theme=dark&hide_border=false)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnatiusVMK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
-![](https://github-readme-stats.vercel.app/api?username=IgnatiusVMK\&theme=tokyonight\&show_icons=true\&hide_border=true)
+### ✍️ Random Dev Quote 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=IgnatiusVMK\&theme=tokyonight\&hide_border=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnatiusVMK\&layout=compact\&theme=tokyonight\&hide_border=true)
+### 😂 Random Dev Meme
+
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> --- [![](https://visitcount.itsvg.in/api?id=IgnatiusVMK&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
