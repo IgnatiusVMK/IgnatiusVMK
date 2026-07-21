@@ -1,53 +1,75 @@
-### Hi there 👋
-- 🌱 I’m currently learning Java | Springboot
-- 👯 I’m looking to collaborate on more Machine Learning Projects.
-- 📫 How to reach me: ignatiusvmk@gmail.com
-<!-- - 😄 Pronouns: He/Him...
--->
+# Hi there 👋, I'm Ignatius Victor
 
-<!--
-**IgnatiusVMK/IgnatiusVMK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer with a strong interest in building scalable web applications and REST APIs. I enjoy learning new technologies and solving real-world problems through software.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Laravel...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ignatiusvmk@gmail.com...
-- 😄 Pronouns: He/Him...
-- ⚡ Fun fact: ...
--->
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Anaconda](https://img.shields.io/badge/anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Data Science](https://img.shields.io/badge/data%20science-%23000000.svg?style=for-the-badge&logo=data-science&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IgnatiusVMK&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=IgnatiusVMK&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnatiusVMK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+* 🌱 Currently learning **Java, Spring Boot, Spring Data JPA, Hibernate, and Spring Security**
+* 💻 Building RESTful APIs and backend services
+* 🤝 Open to collaborating on **Backend, Java, Spring Boot, and Machine Learning projects**
+* 🎓 BSc Computer Science (Graduand 2026)
+* 📫 Reach me at **[ignatiusvmk@gmail.com](mailto:ignatiusvmk@gmail.com)**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=IgnatiusVMK&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+
+### Cloud & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge\&logo=apache\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+<!--![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge\&logo=microsoftazure\&logoColor=white)-->
+
+### Data Science & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge\&logo=anaconda\&logoColor=white)
+
+---
+
+## 🚀 Currently Working On
+
+* Spring Boot REST APIs
+* Spring Data JPA & Hibernate
+* Spring Security
+* Database-driven backend services
+* Java design patterns and best practices
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=IgnatiusVMK\&theme=tokyonight\&show_icons=true\&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=IgnatiusVMK\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnatiusVMK\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 📌 Featured Projects
+
+* **CRUD REST API** — Spring Boot, Spring Data JPA, MySQL
+* **Database Connection Service** — Dynamic database connection using credentials fetched through code
+* **Laravel Accounting System**
+* **Machine Learning Projects**
+
+---
+
+*"Always learning, always building."*
